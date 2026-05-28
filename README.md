@@ -1,6 +1,6 @@
 # about me
 
-### I am bachelor student of mathematics at ETHz. I have just started to use Github. You can reach me by sending an E-mail to ljoyxa@gmail.com.
+### I am bachelor student of mathematics.
 
 <!--
 This HTML syntax (e.g. <!--) is keeping the other lines hidden when you toggle to "Preview".
